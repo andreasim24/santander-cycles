@@ -56,7 +56,7 @@ export default function Map() {
     if (debouncedCenterPosition) {
       setBikePointsInRadius(debouncedCenterPosition);
     }
-  }, [debouncedCenterPosition]);
+  }, [debouncedCenterPosition, setBikePointsInRadius]);
 
   if (!isLoaded) return <ImSpinner2 className="animate-spin" />;
 
