@@ -27,7 +27,7 @@ export default function Santander() {
 
           <div className="space-y-6 ">
             <h3 className="font-light">
-              London's public bike-sharing scheme, Santander Cycles, is
+              London&apos;s public bike-sharing scheme, Santander Cycles, is
               available 24/7, 365 days a year.
             </h3>
             <h3 className="font-light">
