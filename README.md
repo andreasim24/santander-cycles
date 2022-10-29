@@ -12,7 +12,7 @@ This repository is packed with:
 - ⚛️ React 18
 - ✨ TypeScript
 - 💨 Tailwind CSS 3 — Configured with CSS Variables to extend the **primary** color
-- 🗺 Google Map
+- 🗺 Google Map API
 - 🔥 Zustand
 
 ## Getting Started
