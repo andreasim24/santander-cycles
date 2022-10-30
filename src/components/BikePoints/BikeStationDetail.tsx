@@ -47,7 +47,7 @@ export default function BikePoint() {
             <MdSafetyDivider className="text-4xl" />
           </div>
           <div className="flex flex-row items-center justify-between p-1">
-            <h5>Empty Docs</h5>
+            <h5>Empty Docks</h5>
             <h3 className="font-bold ">{bikePointDetail?.emptyDocks}</h3>
           </div>
           <div className="flex flex-row items-center justify-between p-1">

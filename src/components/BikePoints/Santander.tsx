@@ -13,7 +13,7 @@ export default function Santander() {
           />
         </div>
 
-        <div className="flex flex-col space-y-6 xl:max-w-2xl 2xl:max-w-4xl">
+        <div className="flex flex-col space-y-6 xl:max-w-2xl 2xl:max-w-3xl">
           <div className="space-y-4 xl:space-y-0">
             <h1>Santander Cycles</h1>
             <div className="flex h-[350px] w-full object-cover xl:hidden">
