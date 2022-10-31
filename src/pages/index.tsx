@@ -5,34 +5,6 @@ import Layout from "@/components/layout/Layout";
 import UnderlineLink from "@/components/links/UnderlineLink";
 import Head from "next/head";
 
-// type CurrentForecast = {
-//   $id: string;
-//   $type: string;
-//   forecastBand: string;
-//   forecastSummary: string;
-//   forecastText: string;
-//   forecastType: string;
-//   n02Band: string;
-//   o3Band: string;
-//   pM10Band: string;
-//   pM25Band: string;
-//   sO2Band: string;
-// };
-
-// type CurrentForecastType = {
-//   [key: number]: CurrentForecast;
-// };
-
-// interface AirQualityProps {
-//   $id: string;
-//   $type: string;
-//   currentForecast: CurrentForecast[];
-//   disclaimerText: string;
-//   forecastURL: string;
-//   updateFrequency: string;
-//   updatePeriod: string;
-// }
-
 export default function HomePage() {
   return (
     <Layout>
